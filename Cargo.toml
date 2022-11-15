@@ -8,3 +8,5 @@ edition = "2021"
 [dependencies]
 rust_gpiozero = "0.2.1"
 open = "3.0.3"
+random = "0.13.2"
+rand = "0.8.5"
